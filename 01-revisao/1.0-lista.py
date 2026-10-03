@@ -1,5 +1,5 @@
 # Criando lista (modificado)
-frutas = ["maça", "banana", "uva"]
+frutas = ["maça", "banana", "uva" "pera"]
 
 print(type(frutas))
 print(frutas[0])
